@@ -1799,13 +1799,18 @@ $baseurl: '{{ site.baseurl }}/images';
 /* Landing */
 
 	body.landing {
-		#page-wrapper {
+		#page-wrapper, #page-wrapper-wedding {
 			@include vendor('background-image', ('linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5))', 'url("#{$baseurl}/banner.jpg")'));
 			background-attachment: fixed;
 			background-position: center center;
 			background-repeat: no-repeat;
 			background-size: cover;
 			padding-top: 0;
+		}
+
+		#page-wrapper-wedding {
+			@include vendor('background-image', ('linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5))', 'url("#{$baseurl}/wedding/campfire.jpg")'));
+
 		}
 
 		#footer {
