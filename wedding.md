@@ -76,14 +76,15 @@ The official wedding events are happening from July 2 - 5 in Iceland. **To best 
 
 ### For July 1 and 2
 
-You’re welcome to find your own accommodations in Reykjavik for July 1 and 2. As an option we have a room block available in Reykjavik for these two nights. Please email our wedding planner Haffi to take advantage of the room block. It’s first come, first served. haffi@pinkiceland.is
-- Centerhotel Miðgarður - $285/€260 for a double room.
+You’re welcome to find your own accommodations in Reykjavik for July 1 and 2. As an option we have a room block available in Reykjavik for these two nights. Please email our wedding planner [Haffi (haffi@pinkiceland.is)](mailto:haffi@pinkiceland.is) to take advantage of the room block. It’s first come, first served.
+
+| Centerhotel Miðgarður | Double room | $285/€260 |
 
 ### For July 3 and 4
 
 #### Option 1:
 
-We have a room block available with multiple options at Stracta Hotel in Hella. Please email our wedding planner Haffi to take advantage of the room block. It’s first come, first served. haffi@pinkiceland.is
+We have a room block available with multiple options at Stracta Hotel in Hella. Please email our wedding planner [Haffi (haffi@pinkiceland.is)](mailto:haffi@pinkiceland.is) to take advantage of the room block. It’s first come, first served.
 
 ##### Stracta Hotel  ([http://www.stractahotels.is](http://www.stractahotels.is))
 
@@ -100,7 +101,7 @@ AirBnb (5 - 7 minutes from Hella) - Some of you had expressed interest in stayin
 
 
 ## Transportation 🚌
-We’ll be providing transportation for all guests from July 2-5 to wedding events and sightseeing tours. If you’d prefer your own rental car, or need one for after the wedding events, our wedding planner Haffi can help you out. haffi@pinkiceland.is
+We’ll be providing transportation for all guests from July 2-5 to wedding events and sightseeing tours. If you’d prefer your own rental car, or need one for after the wedding events, our wedding planner [Haffi (haffi@pinkiceland.is)](mailto:haffi@pinkiceland.is) can help you out.
 
 
 
