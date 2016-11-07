@@ -82,7 +82,7 @@ We'll be staying in Iceland longer after the official festivities. We hope you c
 
 You’re welcome to find your own accommodations in Reykjavik for July 1 and 2. As an option we have a room block available in Reykjavik for these two nights. Please email our wedding planner [Haffi (haffi@pinkiceland.is)](mailto:haffi@pinkiceland.is) to take advantage of the room block. It’s first come, first served.
 
-| Centerhotel Miðgarður | Double room | $285/€260 |
+| [Centerhotel Miðgarður](https://www.centerhotels.com/hotel-midgardur/) | Double room | $285/€260 |
 
 ### For July 3 and 4
 
