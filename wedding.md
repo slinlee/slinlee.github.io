@@ -66,7 +66,7 @@ The official wedding events are happening from July 2 - 5 in Iceland. **To best 
 ## Flight recommendations ✈️
 - Aim to arrive by July 2 at the latest.
 - We brought you here because we want you to explore Iceland. We hope you can stay as long as you can after the festivities.
-- We'll be getting back to Reykjavik by the afternoon of July 5, just incase you're booking a flight that day.
+- We'll be getting back to Reykjavik by the afternoon of July 5, just incase you're booking a flight or rental car that day.
 - Sometimes the prices change, so check on [Google Flights](https://www.google.com/flights) or [Hopper](http://www.hopper.com) for flight recommendations.
 - Once you’ve booked your flight, [please share the details with us to help us with logistics. slinlee@gmail.com](mailto:slinlee+wedding@gmail.com)
 
