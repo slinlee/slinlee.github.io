@@ -25,9 +25,9 @@ We're Getting Married!
 </header>
 
 
-1. Book flights to Iceland. Share details with Slin.
-2. Book accommodations for July 1-2 in Reykjavik.
-3. Book accommodations for July 3-4 in Hella.
+1. Book flights to Iceland ASAP. Share details with Slin. 
+2. Book accommodations for July 1-2 in Reykjavik by March 1, 2017.
+3. Book accommodations for July 3-4 in Hella by March 1, 2017.
 {:.major}
 
 
@@ -39,11 +39,11 @@ We're Getting Married!
 <div class="content" markdown="1">
 
 ## Adventure time!
-While traveling together in Iceland in 2015, we both fell in love with the land so much that we wanted our closest family and friends to see it too.  
+While traveling together in Iceland in 2015, we both fell in love with the country so much that we wanted our closest family and friends to see it too.  
 
-The official wedding events are happening from July 2 - 5 in Iceland. **To best experience Iceland, we recommend staying *at least *one week.** You can find ideas below for travel plans.
+The official wedding events are happening from July 2 - 5 in Iceland. **To best experience Iceland, we recommend staying *at least *one week.**
 
-Can't make it to Iceland? We're also planning a reception in the San Francisco Bay Area some time in August 2017. We'll update you with more details as planning continues.
+Can't make it to Iceland? We're also planning a reception in the San Francisco Bay Area in August 2017. We'll update you with more details as planning continues.
 
 </div>
 </div>
@@ -58,6 +58,8 @@ Can't make it to Iceland? We're also planning a reception in the San Francisco B
 | July 3 | South Coast Tour. Welcome dinner and stay in Hella. |
 | July 4 | Ceremony and Reception. Stay in Hella. |
 | July 5 | Return to Reykjavik by afternoon. |
+
+We'll be staying in Iceland longer after the official festivities. We hope you can stay longer to see more of Iceland. Let us know if you'd like to travel together!
 
 </div>
 </section>
