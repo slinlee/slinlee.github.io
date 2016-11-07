@@ -43,6 +43,8 @@ While traveling together in Iceland in 2015, we both fell in love with the land 
 
 The official wedding events are happening from July 2 - 5 in Iceland. **To best experience Iceland, we recommend staying *at least *one week.** You can find ideas below for travel plans.
 
+Can't make it to Iceland? We're also planning a reception in the San Francisco Bay Area some time in August 2017. We'll update you with more details as planning continues.
+
 </div>
 </div>
 </section>
