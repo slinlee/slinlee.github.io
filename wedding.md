@@ -20,6 +20,10 @@ We're Getting Married!
 <div class="inner" markdown="1">
 <header class="major" markdown="1">
 
+## Updates: 
+- **Nov 27, 2016:** Check out the schedule of events. We added details about what we'll all be seeing together so you can better plan the rest of your trip! By the way, here are some [photos from our first trip to Iceland together](https://goo.gl/photos/cqvibNkrtgLX2qmn7).
+
+
 ## Checklist for our guests
 
 </header>
@@ -41,7 +45,7 @@ We're Getting Married!
 ## Adventure time!
 While traveling together in Iceland in 2015, we both fell in love with the country so much that we wanted our closest family and friends to see it too.  
 
-The official wedding events are happening from July 2 - 5 in Iceland. **To best experience Iceland, we recommend staying *at least *one week.**
+The official wedding events are happening from **July 2 - 5** in Iceland. **To best experience Iceland, we recommend staying *at least *one week.**
 
 Can't make it to Iceland? We're also planning a reception in the San Francisco Bay Area in August 2017. We'll update you with more details as planning continues.
 
@@ -53,13 +57,14 @@ Can't make it to Iceland? We're also planning a reception in the San Francisco B
 
 ### Here's what we have planned for us all together
 
-| July 1 | Travel day |
+| July 1 | Travel day - most people are getting on planes to Iceland. |
 | July 2 | Most guests arrive in Reykjavik. |
-| July 3 | South Coast Tour. Welcome dinner and stay in Hella. |
-| July 4 | Ceremony and Reception. Stay in Hella. |
-| July 5 | Return to Reykjavik by afternoon. |
+| July 3 | [Golden Circle Tour](https://www.youtube.com/watch?v=5wXZMTk-6G4). Welcome dinner and stay overnight in Hella. |
+| July 4 | Ceremony and Reception. Tour of the South West Coast, including [Black Sand Beach](https://goo.gl/photos/sSjPPJhyUTnQtUyK6), and [Skogafoss](https://goo.gl/photos/UdTQwEXaF5pJkBVXA) and [Seljalandsfoss](https://goo.gl/photos/7B5dhAfQUy8sPYAJA) waterfalls. Stay overnight in Hella. |
+| July 5 | Brunch at Horse Farm (Horses are for riding, not for eating 🐎). Return to Reykjavik by afternoon. |
 
-We'll be staying in Iceland longer after the official festivities. We hope you can stay longer to see more of Iceland. Let us know if you'd like to travel together!
+
+Daisy and Slin are going to be in Iceland from June 29 until July 17. We're tentatively planning to do the [LAUGAVEGUR Trek](https://www.trek.is/en/our-tours/laugavegur-trek/laugavegur-trekking) between roughly Sunday July 9 to Wednesday, July 12. Let us know if you're interested in joining us! (The link is for info purposes, we're not actually booking through a tour group for this)
 
 </div>
 </section>
