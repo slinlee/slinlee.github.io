@@ -1819,6 +1819,12 @@ $baseurl: '{{ site.baseurl }}/images';
 		}
 	}
 
+	body.landing.banquet {
+		#page-wrapper {
+			@include vendor('background-image', ('linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5))', 'url("#{$baseurl}/wedding/nyt.jpg")'));
+		}
+	}
+
 	body.is-mobile {
 		&.landing {
 			#page-wrapper {
@@ -1843,5 +1849,11 @@ $baseurl: '{{ site.baseurl }}/images';
 		#banner,
 		.wrapper.style4 {
 			@include vendor('background-image', ('linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5))', 'url("#{$baseurl}/wedding/campfire.jpg")'));
+		}
+	}
+	body.is-mobile.banquet {
+		#banner,
+		.wrapper.style4 {
+			@include vendor('background-image', ('linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5))', 'url("#{$baseurl}/wedding/nyt.jpg")'));
 		}
 	}
