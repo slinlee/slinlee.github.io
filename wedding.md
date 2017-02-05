@@ -61,14 +61,16 @@ Can't make it to Iceland? Join us at our [reception in the San Francisco Bay Are
 ### Here's what we have planned for us all together
 
 | July 1 | Travel day - most people are getting on planes to Iceland. |
-| July 2 | Most guests arrive in Reykjavik. |
-| July 3 | [Golden Circle Tour](https://www.youtube.com/watch?v=5wXZMTk-6G4). Welcome dinner and stay overnight in Hella. |
-| July 4 | Ceremony and Reception. Tour of the South West Coast, including [Black Sand Beach](https://goo.gl/photos/sSjPPJhyUTnQtUyK6), and [Skogafoss](https://goo.gl/photos/UdTQwEXaF5pJkBVXA) and [Seljalandsfoss](https://goo.gl/photos/7B5dhAfQUy8sPYAJA) waterfalls. Stay overnight in Hella. |
-| July 5 | Brunch at Horse Farm (Horses are for riding, not for eating 🐎). Return to Reykjavik by afternoon. |
+| July 2 | Most guests arrive in Reykjavik.<br><br>**Stay in Reykjavik on your own** |
+| July 3 | [Golden Circle Tour](https://www.youtube.com/watch?v=5wXZMTk-6G4). Welcome dinner and stay overnight in Hella. <br><br>**Reykjavik -> Golden Circle Tour -> Hella** |
+| July 4 | Ceremony and Reception. Tour of the South West Coast, including [Black Sand Beach](https://goo.gl/photos/sSjPPJhyUTnQtUyK6), and [Skogafoss](https://goo.gl/photos/UdTQwEXaF5pJkBVXA) and [Seljalandsfoss](https://goo.gl/photos/7B5dhAfQUy8sPYAJA) waterfalls. Stay overnight in Hella. <br><br>**Hella -> Wedding -> Tour of South West Coast -> Reception -> Hella** |
+| July 5 | Brunch at Horse Farm (Horses are for riding, not for eating 🐎). Return to Reykjavik by afternoon. You're on your own after we get back to Reykjavik!<br><br>**Hella -> Brunch -> Reykjavik**|
 
 * *We’ll be providing transportation for all guests from July 3-5 to wedding events and sightseeing tours. This includes a bus from Reykjavik on 7/3 and back to Reykjavik on 7/5*
 
-Daisy and Slin are going to be in Iceland from June 29 until July 17. We're tentatively planning to do the [LAUGAVEGUR Trek](https://www.trek.is/en/our-tours/laugavegur-trek/laugavegur-trekking) between roughly Sunday July 9 to Wednesday, July 12. Let us know if you're interested in joining us! (The link is for info purposes, we're not actually booking through a tour group for this)
+#### BONUS ADVENTURE
+
+**Daisy and Slin are going to be in Iceland from June 29 until July 17**. We're planning to do the [**LAUGAVEGUR Trek**](https://www.trek.is/en/our-tours/laugavegur-trek/laugavegur-trekking) between **Friday, July 7 to Tuesday, July 11**. Let us know if you're interested in joining us! (The link is for info purposes, we're not actually booking through a tour group for this)
 
 </div>
 </section>
