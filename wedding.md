@@ -64,7 +64,7 @@ Can't make it to Iceland? We're also planning a reception in the San Francisco B
 | July 4 | Ceremony and Reception. Tour of the South West Coast, including [Black Sand Beach](https://goo.gl/photos/sSjPPJhyUTnQtUyK6), and [Skogafoss](https://goo.gl/photos/UdTQwEXaF5pJkBVXA) and [Seljalandsfoss](https://goo.gl/photos/7B5dhAfQUy8sPYAJA) waterfalls. Stay overnight in Hella. |
 | July 5 | Brunch at Horse Farm (Horses are for riding, not for eating 🐎). Return to Reykjavik by afternoon. |
 
-* *We’ll be providing transportation for all guests from July 2-5 to wedding events and sightseeing tours.*
+* *We’ll be providing transportation for all guests from July 3-5 to wedding events and sightseeing tours. This includes a bus from Reykjavik on 7/3 and back to Reykjavik on 7/5*
 
 Daisy and Slin are going to be in Iceland from June 29 until July 17. We're tentatively planning to do the [LAUGAVEGUR Trek](https://www.trek.is/en/our-tours/laugavegur-trek/laugavegur-trekking) between roughly Sunday July 9 to Wednesday, July 12. Let us know if you're interested in joining us! (The link is for info purposes, we're not actually booking through a tour group for this)
 
@@ -113,7 +113,7 @@ We have a room block available with multiple options at Stracta Hotel in Hella. 
 
 
 ## Transportation 🚌
-We’ll be providing transportation for all guests from July 2-5 to wedding events and sightseeing tours. If you’d prefer your own rental car, or need one for after the wedding events, our wedding planner [Haffi (haffi@pinkiceland.is)](mailto:haffi@pinkiceland.is) can help you out.
+We’ll be providing transportation for all guests from July 3-5 to wedding events and sightseeing tours. If you’d prefer your own rental car, or need one for after the wedding events, our wedding planner [Haffi (haffi@pinkiceland.is)](mailto:haffi@pinkiceland.is) can help you out.
 
 
 
