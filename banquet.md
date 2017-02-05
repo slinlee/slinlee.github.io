@@ -19,9 +19,9 @@ We’re married and we want you to come eat with us!
 
 ### When
 
-Saturday August 5, 2017 7pm
+Saturday, August 5, 2017 7pm
 
-<a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=MDNoNmZzZHZncGhldTBpZGI1YTgyN3U4dmcgc2xpbmxlZUBt&amp;tmsrc=slinlee%40gmail.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>
+<a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=MDNoNmZzZHZncGhldTBpZGI1YTgyN3U4dmcgc2xpbmxlZUBt&amp;tmsrc=slinlee%40gmail.com">Add to Calendar</a>
 
 ### Where
 **Champagne Seafood Restaurant**
