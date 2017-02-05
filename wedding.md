@@ -22,6 +22,9 @@ We're Getting Married!
 
 ## Updates: 
 - **Feb 4, 2017:** **Book your flights and accommodations and send us the details!** The deadline for hotels is March 1. The AirBnb we mentioned below is full already :(
+    
+    You're also invited to our [banquet in the San Francisco Bay Area in August](/banquet).
+
 - **Nov 27, 2016:** Check out the schedule of events. We added details about what we'll all be seeing together so you can better plan the rest of your trip! By the way, here are some [photos from our first trip to Iceland together](https://goo.gl/photos/cqvibNkrtgLX2qmn7).
 
 
@@ -48,8 +51,7 @@ While traveling together in Iceland in 2015, we both fell in love with the count
 
 The official wedding events are happening from **July 2 - 5** in Iceland. **To best experience Iceland, we recommend staying *at least *one week.**
 
-Can't make it to Iceland? We're also planning a reception in the San Francisco Bay Area in August 2017. We'll update you with more details as planning continues.
-
+Can't make it to Iceland? Join us at our [reception in the San Francisco Bay Area in August 2017](/banquet). (Remember to let us know if you're coming)
 </div>
 </div>
 </section>
