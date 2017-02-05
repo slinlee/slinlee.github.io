@@ -21,6 +21,7 @@ We're Getting Married!
 <header class="major" markdown="1">
 
 ## Updates: 
+- **Feb 4, 2017:** **Book your flights and accommodations and send us the details!** The deadline for hotels is March 1. The AirBnb we mentioned below is full already :(
 - **Nov 27, 2016:** Check out the schedule of events. We added details about what we'll all be seeing together so you can better plan the rest of your trip! By the way, here are some [photos from our first trip to Iceland together](https://goo.gl/photos/cqvibNkrtgLX2qmn7).
 
 
@@ -101,11 +102,12 @@ We have a room block available with multiple options at Stracta Hotel in Hella. 
 | Studio Apartment | Sleeps 3 | $349/€319 per night |
 | Superior Double | Sleeps 2 | $276/€252 per night |
 
-#### Option 2:
+#### ~~Option 2:~~
+*Now Full!*
 
-AirBnb (5 - 7 minutes from Hella) - Some of you had expressed interest in staying as a larger group rather than the hotel, so we have reserved a house that accommodates up to 12 people. Please [email Slin](mailto:slinlee+wedding@gmail.com) to take advantage of this option. It’s first come, first served. [slinlee@gmail.com](mailto:slinlee+wedding@gmail.com)
+~~AirBnb (5 - 7 minutes from Hella) - Some of you had expressed interest in staying as a larger group rather than the hotel, so we have reserved a house that accommodates up to 12 people. Please [email Slin](mailto:slinlee+wedding@gmail.com) to take advantage of this option. It’s first come, first served. [slinlee@gmail.com](mailto:slinlee+wedding@gmail.com)~~
 
-| AirBnb | Approx $60/person per night |
+| ~~AirBnb~~ | ~~Approx $60/person per night~~ |
 
 
 
