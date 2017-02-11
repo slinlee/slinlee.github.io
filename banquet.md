@@ -51,7 +51,7 @@ Thanks! We really appreciate how you each have been such important parts of our 
 ### 🍏 OASES/EBAYC
   *Education* - [ebayc.org/oases-mentors](http://www.ebayc.org/oases-mentors/)
   
-  This is how a young Slin met Daisy first met at UC Berkeley back in 2002 (Go Bears!). As volunteers, we tutored students from Oakland Chinatown. OASES recruits and trains over 200 college mentors every year to their after-school program. Slin has been involved with OASES for 17 years.
+  This is how a young Slin first met Daisy at UC Berkeley back in 2002 (Go Bears!). As volunteers, we tutored students from Oakland Chinatown. OASES recruits and trains over 200 college mentors every year to their after-school program. Slin has been involved with OASES for 17 years.
 
   [❤️ Donate to OASES](https://www.justgive.org/slinanddaisy){:.button}{:target="_blank"}
 
@@ -77,7 +77,7 @@ Thanks! We really appreciate how you each have been such important parts of our 
 ### 🚲 San Francisco Bike Coalition
   *Livable Cities* - [sfbike.org](https://www.sfbike.org)
 
-  Daisy, Slin and Olive’s favorite way to get around the city is on bicycle-- 
+  Daisy, Slin, and Olive’s favorite way to get around the city is on bicycle-- 
   it’s the most convenient and most fun. 
   Help more people join us in the streets on bicycle by supporting the SF Bike Coalition who work to transform San Francisco streets and neighborhoods into more livable and safe places.
 
