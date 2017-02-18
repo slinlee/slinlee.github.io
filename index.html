@@ -1,22 +1,43 @@
 ---
 layout: landing
 ---
-				<!-- Banner -->
-					<section id="banner">
-						<div class="inner">
-							<h2>{{ site.title }}</h2>
-							<p>{{ site.description | markdownify }}</p>
-						</div>
-						<!-- <a href="#one" class="more scrolly">Learn More</a> -->
-					</section>
+<!-- Banner -->
+<section id="banner">
+    <div class="inner">
+        <h2>{{ site.title }}</h2>
+        <p>{{ site.description | markdownify }}</p>
+    </div>
+    <!-- <a href="#one" class="more scrolly">Learn More</a> -->
+</section>
 
-					<!-- One -->
-						<section id="one" class="wrapper style1 special">
-							<div class="inner">
-								<header class="major">
-									<h2>I'm excited about getting people outdoors 🌲🌿<br />
-								    I work at <a href="http://skymind.ai" target="_blank">Skymind</a> ✨
-								 </h2>
-								</header>
-							</div>
-						</section>
+<!-- One -->
+<section id="one" class="wrapper style1 special">
+    <div class="inner">
+        <header class="major">
+            <h2>I'm excited about getting people outdoors 🌲🌿<br/>
+                I work at <a href="http://skymind.ai" target="_blank">Skymind</a> ✨
+            </h2>
+        </header>
+    </div>
+</section>
+<section id="two" class="wrapper style2">
+    <div class="inner">
+
+        <h1 class="page-heading">Posts</h1>
+
+        <ul class="post-list">
+            {% for post in site.posts %}
+            <li>
+                <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+                <h2>
+                    <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>
+                </h2>
+            </li>
+            {% endfor %}
+        </ul>
+
+        <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+    </div>
+</section>
