@@ -36,32 +36,31 @@ Saturday, August 5, 2017 7pm
 <section class="wrapper style5">
 <div class="inner" markdown="1">
 
+### Dress code
+Semi-formal 👗👔
+
 ## Regarding gifts/registry
 Thanks! We really appreciate how you each have been such important parts of our lives, so no gifts are needed. If you insist on insisting, here are important causes we believe in that can always use more support:
 
-[❤️ Donate to the causes here](https://www.justgive.org/slinanddaisy){:.button}{:target="_blank"}
 
 ### 👩‍👩‍👧‍👦 VE Global
   *Social Services* - [ve-global.org](http://www.ve-global.org)
   
   In 2014, Daisy joined VE Global to volunteer at a group home for teen moms and pregnant teens in Santiago, Chile. Her cohort of 10 volunteers from around the world helped to foster the development of children at social risk. Slin joined her in South America, where they lived and traveled for the first time together.
 
-  [❤️ Donate to VE Global](https://www.justgive.org/slinanddaisy){:.button}{:target="_blank"}
-
+ 
 ### 🍏 OASES/EBAYC
   *Education* - [ebayc.org/oases-mentors](http://www.ebayc.org/oases-mentors/)
   
   This is how a young Slin first met Daisy at UC Berkeley back in 2002 (Go Bears!). As volunteers, we tutored students from Oakland Chinatown. OASES recruits and trains over 200 college mentors every year to their after-school program. Slin has been involved with OASES for 17 years.
 
-  [❤️ Donate to OASES](https://www.justgive.org/slinanddaisy){:.button}{:target="_blank"}
-
+  
 ### ✊🏽 Vocal Minority
   *Equity and Justice* - [vocalminority.us](http://vocalminority.us/)
   
   Vocal Minority is a community dedicated to fighting for equity and justice in America. We believe a Trump administration poses a distinct threat to countless citizens: immigrants and Black Americans, Muslims and gays, veterans and women. Vocal Minority fights this threat by pooling donations, once a month, to support an organization that is taking a stand to defend our fellow Americans.
 
-  [❤️ Donate to Vocal Minority](https://www.justgive.org/slinanddaisy){:.button}{:target="_blank"}
-
+ 
 
 ### 🏔 Access Fund
   *Environment and Outdoors Access* - [accessfund.org](https://www.accessfund.org)
@@ -71,8 +70,7 @@ Thanks! We really appreciate how you each have been such important parts of our 
   sustainably managing the impacts climbing has on the environment, 
   and educating the public about protecting the outdoors.
 
- [❤️ Donate to Access Fund](https://www.justgive.org/slinanddaisy){:.button}{:target="_blank"}
-
+ 
 
 ### 🚲 San Francisco Bike Coalition
   *Livable Cities* - [sfbike.org](https://www.sfbike.org)
@@ -81,8 +79,7 @@ Thanks! We really appreciate how you each have been such important parts of our 
   it’s the most convenient and most fun. 
   Help more people join us in the streets on bicycle by supporting the SF Bike Coalition who work to transform San Francisco streets and neighborhoods into more livable and safe places.
 
-  [❤️ Donate to SF Bike Coalition](https://www.justgive.org/slinanddaisy){:.button}{:target="_blank"}
-
+  
 </div>
 </section>
 
