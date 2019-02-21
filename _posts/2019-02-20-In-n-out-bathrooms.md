@@ -11,6 +11,7 @@ Today driving down to LA we made the traditional stop for In-N-Out at Kettleman 
 By the way, thanks for putting a baby-changing table in the women's restroom. It came in handy today. It would also be handy if there was a changing table in the men’s restroom so Dads could change babies too. Even better would be a family-friendly baby room so that we could go in together to take care of the baby.
 
 Thanks!
+
 S
 
 <span class="image fit">
