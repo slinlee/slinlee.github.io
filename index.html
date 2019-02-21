@@ -7,7 +7,7 @@ layout: landing
         <h2>{{ site.title }}</h2>
         <p>{{ site.description | markdownify }}</p>
     </div>
-    <!-- <a href="#one" class="more scrolly">Learn More</a> -->
+    <a href="#one" class="more scrolly">Learn More</a>
 </section>
 
 <!-- One -->
@@ -26,6 +26,11 @@ layout: landing
         <h1 class="page-heading">Posts</h1>
 
         <ul class="post-list">
+            <li>
+              <h2>
+                <a class="post-link" href="{{site.baseurl}}/now">What I'm doing now</a>
+              </h2>
+            </li>
             {% for post in site.posts %}
             <li>
                 <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
