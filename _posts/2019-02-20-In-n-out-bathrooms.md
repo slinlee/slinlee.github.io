@@ -13,6 +13,8 @@ By the way, thanks for putting a baby-changing table in the women's restroom. It
 Thanks!
 S
 
+<span class="image fit">
 ![M and me at In-N-Out smiling](/images/posts/in-n-out.jpg)
+</span>
 
 [^1]: Names changed because I don't remember. Sorry, George!
