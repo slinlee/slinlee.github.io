@@ -2,6 +2,7 @@
 layout: post
 title: "Dear In-N-Out"
 date: 2019-02-20
+categories: parenting
 ---
 
 Dear In-N-Out,
