@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Fifty Fares"
+title: "Fifty Fares - A Quick Book Review"
 date: 2019-02-25
 categories: books
 ---
 
-Fifty Fares, by Ronan Takagi
+[Fifty Fares, by Ronan Takagi](https://smile.amazon.com/Fifty-Fares-Ronan-Takagi/dp/1521989958/)
 
 👍🏽
 
