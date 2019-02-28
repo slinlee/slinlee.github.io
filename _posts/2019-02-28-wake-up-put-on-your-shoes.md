@@ -10,7 +10,7 @@ categories: running, meditation, morning routine
 
 # Hey you, wake up and put on your shoes
 
-You'll feel great. And if you don't do it now, you won't go today.
+Go for the jog. You'll feel great. And if you don't do it now, you won't go today.
 
 Roll out of bed, feed Olive. Drink a glass of water and put on your running shoes. Check the weather by looking out the window, not on your phone. You'll end up reading the news. Quick, get out the door.
 
