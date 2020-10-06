@@ -1,14 +1,50 @@
-<html>
-	<head>
-		<title>slinlee - Black Lives Matter</title>
-	</head>
-	<body style="background-color:black">
+---
+layout: landing
+---
+<!-- Banner -->
+<section id="banner">
+    <div class="inner">
+        <h2>{{ site.title }}</h2>
+        <p>{{ site.description | markdownify }}</p>
+    </div>
+    <a href="#one" class="more scrolly">Learn More</a>
+</section>
 
-		<div style="height:100%; align-items:center; justify-content:center; display:flex">
-			<a href="https://www.rollingstone.com/culture/culture-news/george-floyd-protests-bail-funds-police-brutality-black-lives-matter-1008259/">
-				<h1 style="color:#555555; font-variant:small-caps">Black Lives Matter</h1>
-			</a>
-		</div>
+<!-- One -->
+<section id="one" class="wrapper style1 special">
+    <div class="inner">
+        <header class="major">
+            <h2>I'm excited about getting people outdoors 🌲🌿<br/>
+                I work at <a href="https://pathmind.com" target="_blank">Pathmind</a> ✨
+		<br><a href="https://blacklivesmatter.com" target="_blank">#BLM</a> ✊🏾
+            </h2>
+        </header>
+    </div>
+</section>
+<section id="two" class="wrapper style2">
+    <div class="inner">
 
-	</body>
-</html>
+        <h1 class="page-heading">Posts</h1>
+
+        <ul class="post-list">
+            <li>
+              <h2>
+                <a class="post-link" href="{{site.baseurl}}/now">What I'm doing now</a>
+              </h2>
+            </li>
+            {% for post in site.posts %}
+            <li>
+                <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+                <h2>
+                    <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>
+                </h2>
+            </li>
+            {% endfor %}
+        </ul>
+
+        <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+    </div>
+</section>
+
