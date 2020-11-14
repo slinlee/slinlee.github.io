@@ -4,10 +4,10 @@
 # Site settings
 title: Slin Lee
 description: |
-    Micro-Adventurer X Product Designer
+    Micro-Adventurer X Dad
 owner: Slin Lee # or company name
 first_published: 2016 # if migrating another site, the year of your first publish
-# email: slinlee@gmail.com
+email: slin@slinlee.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://slinlee.com" # the base hostname & protocol for your site
 social:
