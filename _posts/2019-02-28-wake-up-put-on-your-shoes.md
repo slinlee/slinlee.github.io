@@ -2,13 +2,12 @@
 layout: post
 title: "Hey you, wake up and put on your shoes"
 date: 2019-02-28
-categories: running meditation morning-routine
+tags: running meditation morning-routine
 ---
+
 <span class="image fit">
 ![Running with a smile](/images/posts/iceland-running.jpg)
 </span>
-
-# Hey you, wake up and put on your shoes
 
 Go for the jog. You'll feel great. And if you don't do it now, you won't go today.
 
