@@ -2,7 +2,6 @@
 title: Slin Lee
 tagline: The one and only
 url: https://slinlee.com
-paginate: 1
 baseurl: ""
 permalink: pretty
 
@@ -21,7 +20,7 @@ exclude:
   - Gemfile.lock
   - LICENSE.md
   - README.md
-  - node_modules
+  - node_modules/
   - yarn.lock
   - package.json
   - .prettierignore
