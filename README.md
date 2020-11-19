@@ -1,19 +1,3 @@
-Slin's Public Site for slinlee.com
+# Slin's Public Site for slinlee.com
 
-## Credits
-Theme:
-  Spectral by HTML5 UP (html5up.net | @n33co) and modified by @arkadianriver to work with Jekyll
-
-Demo Images:
-  Unsplash (unsplash.com)
-
-Icons:
-  Font Awesome (fortawesome.github.com/Font-Awesome)
-
-Other:
-  jQuery (jquery.com)
-  html5shiv.js (@afarkas @jdalton @jon_neal @rem)
-  background-size polyfill (github.com/louisremi)
-  Misc. Sass functions (@HugoGiraudel)
-  Respond.js (j.mp/respondjs)
-  Skel (skel.io)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f1679f05-8ec1-46f6-a580-cb3fe568ed17/deploy-status)](https://app.netlify.com/sites/objective-banach-3248dd/deploys)
