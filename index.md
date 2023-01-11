@@ -7,7 +7,9 @@ title: Home
 
 <article class="post">
   <h1 class="post-title">{{ post.title }}</h1>
-  <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
+  <time 
+    datetime="{{ post.date | date_to_xmlschema }}" 
+    class="post-date">{{ post.date | date_to_string }}</time>
   {{ post.content }}
 </article>
 
