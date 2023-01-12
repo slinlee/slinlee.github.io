@@ -29,7 +29,21 @@ else
     FILE_NAME=$BLOG_PATH$TODAY-$1.md
 fi
 
-[ -f $FILE_NAME ] && echo "Opening existing blog post" || cp ${BLOG_PATH}template.md $FILE_NAME 
+# Open the file if it exists already
+if [ -f $FILE_NAME ]
+  then
+    echo "Opening existing blog post"
+
+else
+  # Create a new file from the template
+  cp ${BLOG_PATH}template.md $FILE_NAME
+  # Set the title
+  sed -i "s/title: \"\"/title: \"$1\"/" $FILE_NAME
+  # Set the date
+  sed -i "s/date:/date: $TODAY/" $FILE_NAME
+fi
 
 (cd $BLOG_PATH && hx $FILE_NAME)
- ```
+```
+
+Updated: 12 Jan 2023 - The script fills in the metadata when creating a new post.
