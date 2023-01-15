@@ -4,7 +4,7 @@ title: "Dear Diary Script"
 date: 2023-01-15
 ---
 
-![Screenshot of the Dear Diary script](ddiary.png)
+![Screenshot of the Dear Diary script](/images/ddiary.png)
 
 I do a quick brain dump at the beginning of the day. Things I'm thinking about, things that are happening, the weather, how I got to work that day, things to do. It's usually short and in plain text.
 
