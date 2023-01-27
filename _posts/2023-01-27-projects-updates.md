@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "projects-updates"
+title: "Project Updates"
 date: 2023-01-27
 ---
 
-Here's a quick update on the [project ideas I mentioned last time](/_posts/2023-01-13-projects.md).
+Here's a quick update on the [project ideas I mentioned last time]({% post_url 2023-01-13-projects %}).
 
 1. Rivendell Platypus - complete! It's ready to be used for commuting. The bike is for my wife, but I've taken it on some test rides for bringing the kids to and from school. It's so nice. It'll get a basket soon.
   I've also got to set up my Clem again since it loaned a few parts to the Platypus.
@@ -19,4 +19,3 @@ Here's a quick update on the [project ideas I mentioned last time](/_posts/2023-
 ### Someday later:
 
 - Sunrise/Sunset chimes
-- 
