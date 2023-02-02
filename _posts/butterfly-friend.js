@@ -4,8 +4,8 @@ let tri1 = {
   x2: 0,
   y2: 0,
   x3: 0,
-  y3: 0
-}
+  y3: 0,
+};
 
 let tri2 = {
   x1: 0,
@@ -13,23 +13,22 @@ let tri2 = {
   x2: 0,
   y2: 0,
   x3: 0,
-  y3: 0
-}
+  y3: 0,
+};
 
 let col1 = {
   r: 0,
   g: 0,
-  b: 0
-}
+  b: 0,
+};
 
 let col2 = {
   r: 0,
   g: 0,
-  b: 0
-}
+  b: 0,
+};
 
 let size = 20;
-
 
 function setup() {
   createCanvas(windowWidth, windowHeight);
@@ -51,7 +50,7 @@ function draw() {
   // background(map(mouseX, 0, width, 0, 255));
   background(255);
   nextTri(tri1);
-  nextTri(tri2)
+  nextTri(tri2);
   noStroke();
   fill(col1.r, col1.g, col1.b, 80);
   triangle(tri1.x1, tri1.y1, tri1.x2, tri1.y2, tri1.x3, tri1.y3);
@@ -74,8 +73,8 @@ function windowResized() {
 function seedTri(tri) {
   // tri.x1 = random(0, width);
   // tri.y1 = random(0, height);
-  tri.x1 = width/2;
-  tri.y1 = height/2;
+  tri.x1 = width / 2;
+  tri.y1 = height / 2;
   tri.x2 = nextX(tri.x1);
   tri.y2 = nextY(tri.y1);
   tri.x3 = nextX(tri.x1);
@@ -83,12 +82,10 @@ function seedTri(tri) {
 }
 
 function nextTri(tri) {
-  let corner = Math.floor(random(1,3));
+  let corner = Math.floor(random(1, 3));
 
-  if(corner === 1) {
-    do {
-
-    } while (tri.x2 > width || tri.x2 < 0);
+  if (corner === 1) {
+    do {} while (tri.x2 > width || tri.x2 < 0);
     tri.x2 = nextX(tri.x1);
     tri.y2 = nextY(tri.y1);
     tri.x3 = nextX(tri.x1);

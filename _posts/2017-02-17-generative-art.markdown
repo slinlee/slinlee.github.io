@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Generating Art"
-date:   2017-02-17 22:21:01 -0800
-categories: art 
+title: "Generating Art"
+date: 2017-02-17 22:21:01 -0800
+categories: art
 ---
 
 I started playing with putting shapes and colors on the screen.

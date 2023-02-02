@@ -2,25 +2,24 @@ let seg = {
   x1: 0,
   y1: 0,
   x2: 0,
-  y2: 0
-}
+  y2: 0,
+};
 
 let col = {
   r: 0,
   g: 0,
-  b: 0
-}
+  b: 0,
+};
 
 let size = 120;
 
 let lines = 500;
 
-
 function setup() {
   createCanvas(windowWidth, windowHeight);
   background(255);
-  size = width/10;
-  lines = width/2;
+  size = width / 10;
+  lines = width / 2;
   seedSeg();
 }
 
@@ -49,8 +48,8 @@ function mouseClicked() {
 
 function resetWorkspace() {
   background(255);
-  lines = width/2;
-  size = width/10;
+  lines = width / 2;
+  size = width / 10;
   seedSeg();
 }
 
@@ -86,9 +85,9 @@ function nextX(x) {
 
 function nextY(y) {
   // let newY = y + random(-size, size);
-  let newY = seg.y1 - Math.sqrt((size * size) - Math.pow(seg.x1 - seg.x2, 2));
+  let newY = seg.y1 - Math.sqrt(size * size - Math.pow(seg.x1 - seg.x2, 2));
   if (newY >= height || newY <= 0) {
-    return seg.y1 + Math.sqrt((size * size) - Math.pow(seg.x1 - seg.x2, 2));
+    return seg.y1 + Math.sqrt(size * size - Math.pow(seg.x1 - seg.x2, 2));
   } else {
     return newY;
   }

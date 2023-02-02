@@ -4,17 +4,16 @@ let tri = {
   x2: 0,
   y2: 0,
   x3: 0,
-  y3: 0
-}
+  y3: 0,
+};
 
 let col = {
   r: 0,
   g: 0,
-  b: 0
-}
+  b: 0,
+};
 
 let size = 20;
-
 
 function setup() {
   createCanvas(windowWidth, windowHeight);
@@ -53,12 +52,10 @@ function seedTri() {
 }
 
 function nextTri() {
-  let corner = Math.floor(random(1,3));
+  let corner = Math.floor(random(1, 3));
 
-  if(corner === 1) {
-    do {
-
-    } while (tri.x2 > width || tri.x2 < 0);
+  if (corner === 1) {
+    do {} while (tri.x2 > width || tri.x2 < 0);
     tri.x2 = nextX(tri.x1);
     tri.y2 = nextY(tri.y1);
     tri.x3 = nextX(tri.x1);
