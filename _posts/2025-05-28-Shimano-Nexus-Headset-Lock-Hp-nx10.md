@@ -12,7 +12,7 @@ The model name is the Nexus Headset Lock HP-NX10
 
 There aren't many instructions but here's what I've found :
 
-- [Cool video of one on a Platypus](https://www.instagram.com/reel/C5I32V_SS4_/) This is how I learned about them.
+- [Cool video of one on a Platypus](https://www.instagram.com/reel/C5I32V_SS4_/) <- This is how I learned about them.
 
 - [Product page](https://bike.shimano.com/products/components/pdp.P-HP-NX10.html)
 
