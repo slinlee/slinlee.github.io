@@ -12,17 +12,12 @@ The model name is the Nexus Headset Lock HP-NX10
 
 There aren't many instructions but here's what I've found :
 
-- Cool video of one on a Platypus:\
-  <https://www.instagram.com/reel/C5I32V_SS4_/>
+- [Cool video of one on a Platypus](https://www.instagram.com/reel/C5I32V_SS4_/) This is how I learned about them.
 
-- Product page:\
-  <https://bike.shimano.com/products/components/pdp.P-HP-NX10.html>
+- [Product page](https://bike.shimano.com/products/components/pdp.P-HP-NX10.html)
 
-- Exploded view:\
-  <https://manualzz.com/doc/53867740/shimano-hp-nx10-komponen-kepala-exploded-view>
+- [Exploded view](https://manualzz.com/doc/53867740/shimano-hp-nx10-komponen-kepala-exploded-view)
 
-- Installation walkthrough video:\
-  <https://youtu.be/Vcgh7j5ieQw>
+- [Installation walkthrough video](https://youtu.be/Vcgh7j5ieQw)
 
-- User safety instructions:\
-  <https://www.handleidi.ng/shimano/hp-nx10/handleiding>
+- [User safety instructions](https://www.handleidi.ng/shimano/hp-nx10/handleiding)
