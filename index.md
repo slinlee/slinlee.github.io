@@ -12,5 +12,3 @@ title: Home
     class="post-date">{{ post.date | date_to_string }}</time>
   {{ post.content }}
 </article>
-
-{% include allposts.html %}
