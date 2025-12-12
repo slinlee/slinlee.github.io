@@ -22,3 +22,5 @@ There aren't many instructions but here's what I've found :
 - [Installation walkthrough video](https://youtu.be/Vcgh7j5ieQw)
 
 - [User safety instructions](https://www.handleidi.ng/shimano/hp-nx10/handleiding)
+
+- [An online store that I ordered from](https://jdcycletech.theshop.jp/items/125895831)
